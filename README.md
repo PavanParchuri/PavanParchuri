@@ -1,5 +1,5 @@
-### Hi, I'm Pavan 👋
-___
+# Hi, I'm Pavan 👋
+
 <!--
 **PavanParchuri/PavanParchuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
