@@ -5,10 +5,11 @@
 -->
 
 - 🔭 I’m currently working on Machine Learning and Android App Development.
-- 🌱 I’m currently learning Cloud Computing. <!-- - 👯 I’m looking to collaborate on ...  - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about information related to Coding.
+- 🌱 I’m currently learning Cloud Computing and Big Data. <!-- - 👯 I’m looking to collaborate on ...  - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about Android Studio.
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Pavan's github stats](https://github-readme-stats.vercel.app/api?username=PavanParchuri&show_icons=true)](https://github.com/PavanParchuri/github-readme-stats)
+![Pavan Parchuri's github stats](https://github-readme-stats.vercel.app/api?username=PavanParchuri&show_icons=true&theme=default&include_all_commits=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanParchuri&theme=default&hide_border=true)
