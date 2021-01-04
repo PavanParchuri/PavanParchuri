@@ -11,4 +11,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![Pavan's github stats](https://github-readme-stats.vercel.app/api?username=PavanParchuri)](https://github.com/PavanParchuri/github-readme-stats)
+[![Pavan's github stats](https://github-readme-stats.vercel.app/api?username=PavanParchuri&show_icons=true)](https://github.com/PavanParchuri/github-readme-stats)
