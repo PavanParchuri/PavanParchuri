@@ -12,4 +12,4 @@
 - ⚡ Fun fact: ... -->
 
 ![Pavan Parchuri's github stats](https://github-readme-stats.vercel.app/api?username=PavanParchuri&show_icons=true&theme=default&include_all_commits=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanParchuri&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanParchuri&theme=default&hide_border=true&langs_count=5)
