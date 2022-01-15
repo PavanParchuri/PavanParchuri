@@ -37,6 +37,7 @@
 | <a href="https://github.com/PavanParchuri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PavanParchuri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pavan Parchuri's github stats" /></a> | <a href="https://github.com/PavanParchuri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanParchuri&theme=buefy&hide_border=true" alt="Pavan Parchuri's most used languages" /></a> |
 | ------------- | ------------- |
 
+<br>
 
 ✨ **My Top Repositories** ✨
   
