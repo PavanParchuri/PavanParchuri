@@ -63,4 +63,5 @@
 <!-- - 👯 I’m looking to collaborate on ...  - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ...  - ⚡ Fun fact: ... -->
 <!-- ![Pavan Parchuri's github stats](https://github-readme-stats.vercel.app/api?username=PavanParchuri&show_icons=true&theme=default&include_all_commits=false&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanParchuri&theme=default&hide_border=true&langs_count=10) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanParchuri&theme=default&hide_border=true&langs_count=10) 
+[![HitCount](http://hits.dwyl.com/PavanParchuri/PavanParchuri.svg?style=flat)](http://hits.dwyl.com/PavanParchuri/PavanParchuri) -->
