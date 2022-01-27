@@ -31,7 +31,6 @@
 
 [![Linkedin: pavan-parchuri](https://img.shields.io/badge/-pavanparchuri-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-parchuri/)
 &nbsp; [![Twitter: pavan_parchuri](https://img.shields.io/twitter/follow/pavan_parchuri?label=follow&style=social)](https://twitter.com/pavan_parchuri)
-&nbsp; [![GitHub: PavanParchuri](https://img.shields.io/github/followers/PavanParchuri?label=follow&style=social)](https://github.com/PavanParchuri)
 &nbsp; [![Instagram: pavan_parchuri10](https://img.shields.io/badge/-pavan__parchuri10-blue?style=social&logo=Instagram&logoColor=red)](https://www.instagram.com/pavan_parchuri10/)
 
 | <a href="https://github.com/PavanParchuri"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PavanParchuri&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pavan Parchuri's github stats" /></a> | <a href="https://github.com/PavanParchuri"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanParchuri&theme=buefy&hide_border=true" alt="Pavan Parchuri's most used languages" /></a> |
@@ -52,7 +51,7 @@
 
   
 
-
+<!-- &nbsp; [![GitHub: PavanParchuri](https://img.shields.io/github/followers/PavanParchuri?label=follow&style=social)](https://github.com/PavanParchuri) -->
 <!--
 **PavanParchuri/PavanParchuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
