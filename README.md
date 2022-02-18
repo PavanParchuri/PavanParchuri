@@ -4,7 +4,7 @@
 
 - 💼 **Python Developer** at [`Tata Consultancy Services`](https://www.tcs.com/)
 - 🔭 Currently working on **_Cloud Computing_**, **_OpenStack Cloud Infrastructure_**, developing applications with **_Python_**
-- 🌱 Currently learning more about Cloud Computing
+- 🌱 Learning new concepts in Computer Networks and Cloud Computing
 - ❤️ I love coding and developing mobile & web applications
 - 💬 Ask me about Machine Learning, Deep Learning, and Android App Development
 - 📫 Reach me: pavanparchuri1710@gmail.com
