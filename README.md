@@ -41,10 +41,10 @@
 ✨ **My Top Repositories** ✨
   
 
-<a href="https://github.com/PavanParchuri/Body-Fitness-Prediction">
+<a href="https://github.com/PavanParchuri/Stock-Market-Prediction-LSTM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PavanParchuri&repo=Stock-Market-Prediction-LSTM&theme=buefy" />
 </a>
-<a href="https://github.com/PavanParchuri/Citizen-Safety">
+<a href="https://github.com/PavanParchuri/Body-Fitness-Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PavanParchuri&repo=Body-Fitness-Prediction&theme=buefy" />
 </a>
 
