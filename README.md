@@ -42,10 +42,10 @@
   
 
 <a href="https://github.com/PavanParchuri/Body-Fitness-Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PavanParchuri&repo=Body-Fitness-Prediction&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PavanParchuri&repo=Stock-Market-Prediction-LSTM&theme=buefy" />
 </a>
 <a href="https://github.com/PavanParchuri/Citizen-Safety">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PavanParchuri&repo=Citizen-Safety&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PavanParchuri&repo=Body-Fitness-Prediction&theme=buefy" />
 </a>
 
 
