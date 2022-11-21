@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PavanParchuri&label=Views&color=blue&style=plastic" alt="Pavan Parchuri" /> </p> 
 
 - 💼 **Python Developer** at [`Tata Consultancy Services`](https://www.tcs.com/)
-- 🔭 Currently working on **_Cloud Computing_**, **_OpenStack Cloud Infrastructure_**, developing applications using **_Python_**
-- 🌱 Learning new concepts in ReactJS, Computer Networks and Cloud Computing
+- 🔭 Currently working on **_OpenStack Cloud Infrastructure_** and developing applications using **_Python_**
+- 🌱 Learning Docker and Kubernetes
 - ❤️ I love coding and developing mobile & web applications
 - 💬 Ask me about Machine Learning, Deep Learning, and Android App Development
 - 📫 Reach me: pavanparchuri1710@gmail.com
