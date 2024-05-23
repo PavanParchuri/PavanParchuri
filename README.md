@@ -2,17 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PavanParchuri&label=Views&color=blue&style=plastic" alt="Pavan Parchuri" /> </p> 
 
-- 💼 **Python Developer** at [`Tata Consultancy Services`](https://www.tcs.com/)
-- 🔭 Currently working on **_OpenStack Cloud Infrastructure_** and developing applications using **_Python_**
-- 🌱 Learning Docker and Kubernetes
-- ❤️ I love coding and developing mobile & web applications
-- 💬 Ask me about Machine Learning, Deep Learning, and Android App Development
+- 💼 **Cloud Platform Engineer** at [`Adtran`](https://www.adtran.com/en).
+- 🔭 Currently working on building and deploying container applications using **_OpenStack & AWS Cloud_**.
+- 🌱 Learning Go and Kubernetes.
+- ❤️ I love coding and building scalable applications.
+- 💬 Ask me about OpenStack Cloud, Machine Learning, and Deep Learning.
 - 📫 Reach me: pavanparchuri1710@gmail.com
 
 <br>
 
 ✨ **Languages and Tools** ✨ 
-- Python, Java, C, C++, Shell Script
+- Python, Java, Shell Script
 - HTML, CSS, JavaScript, NodeJS
 - MySQL, Oracle, MongoDB
 - Android Studio, Eclipse, PyCharm, Unix, Jupyter Notebook
