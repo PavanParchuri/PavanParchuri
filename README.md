@@ -5,27 +5,18 @@
 - 💼 **Cloud Platform Engineer** at [`Adtran`](https://www.adtran.com/en).
 - 🔭 Currently working on building and deploying container applications using **_OpenStack & AWS Cloud_**.
 - 🌱 Learning Go and Kubernetes.
-- ❤️ I love coding and building scalable applications.
+- ❤️ I love coding and also developing scalable applications.
 - 💬 Ask me about OpenStack Cloud, Machine Learning, and Deep Learning.
 - 📫 Reach me: pavanparchuri1710@gmail.com
 
 <br>
 
-✨ **Languages and Tools** ✨ 
-- Python, Java, Shell Script
-- HTML, CSS, JavaScript, NodeJS
-- MySQL, Oracle, MongoDB
-- Android Studio, Eclipse, PyCharm, Unix, Jupyter Notebook
-
-<details>
-  <summary>✨ <b>Technologies</b> ✨</summary>
-  <ul>
-    &nbsp; <li> Machine Learning and Deep Learning </li>
-    <li> Cloud Computing </li>
-    <li> Android App Development </li>
-    <li> Data Science </li>
-    <li> Big Data </li>
-</details>
+✨ **Technical Skills** ✨ 
+- **Programming Languages:** Python, Java, Shell Scripting
+- **Backend & Databases:** Linux, Ansible, Elastic Stack (ELK), MongoDB, MariaDB
+- **Cloud & Containerization:** OpenStack, AWS, Docker, Kubernetes, OpenShift
+- **AI:** Machine Learning, Deep Learning, Data Science
+- **Development Tools & IDEs:** Android Studio, Eclipse, VS Code, PyCharm, Jupyter Notebook, Spyder
 
 <br>
 
