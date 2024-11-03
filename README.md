@@ -16,6 +16,7 @@
 - **Backend & Databases:** Linux, Ansible, Elastic Stack (ELK), MongoDB, MariaDB
 - **Cloud & Containerization:** OpenStack, AWS, Docker, Kubernetes, OpenShift
 - **AI:** Machine Learning, Deep Learning, Data Science
+- **Frameworks:** Flask, Django, Dash
 - **Development Tools & IDEs:** Android Studio, Eclipse, VS Code, PyCharm, Jupyter Notebook, Spyder
 
 <br>
